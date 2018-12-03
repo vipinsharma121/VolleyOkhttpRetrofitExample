@@ -15,5 +15,6 @@ public interface Api {
 
     int j = 10;
     int h = 10;
+    int y = 10;
 
 }
