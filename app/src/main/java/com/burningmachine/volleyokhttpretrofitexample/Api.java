@@ -13,4 +13,7 @@ public interface Api {
 
     int k = 10;
 
+    int j = 10;
+    int h = 10;
+
 }
