@@ -26,6 +26,7 @@ ProgressDialog pd;
 
         pd=new ProgressDialog(RetrofitActivity.this);
         getHorses1();
+        int i = 1;
     }
 
 

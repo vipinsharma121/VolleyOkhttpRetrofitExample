@@ -11,4 +11,6 @@ public interface Api {
     @GET("marvel")
     Call<List<Hero>> getHorses();
 
+    int k = 10;
+
 }
