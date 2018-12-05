@@ -18,7 +18,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Okhttp3Activity"></activity>
+        <activity android:name=".Okhttp3Activity" />
+        <activity android:name=".GitActivity" />
+        <activity android:name=".EmptyActivity"></activity>
     </application>
 
 </manifest>
