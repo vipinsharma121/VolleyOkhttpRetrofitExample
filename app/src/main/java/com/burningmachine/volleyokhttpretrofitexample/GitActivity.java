@@ -9,7 +9,9 @@ public class GitActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_retrofit);int i=6;
+        setContentView(R.layout.activity_retrofit);
+        int i=6;
+        int k=20;
 
 
     }
