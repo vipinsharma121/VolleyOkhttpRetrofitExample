@@ -8,6 +8,6 @@ public class GitActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_git);
+        setContentView(R.layout.activity_retrofit);int i=6;
     }
 }
