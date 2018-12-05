@@ -30,4 +30,9 @@ public class GitActivity extends AppCompatActivity {
     {
         Log.e("msg----------","Message");
     }
+
+    public void testgame()
+    {
+        
+    }
 }
