@@ -17,4 +17,9 @@ public class GitActivity extends AppCompatActivity {
     {
         Log.e("msg----------","Message");
     }
+
+    public void show2()
+    {
+        Log.e("msg----------","Message");
+    }
 }
