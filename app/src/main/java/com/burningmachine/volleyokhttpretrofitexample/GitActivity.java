@@ -33,6 +33,6 @@ public class GitActivity extends AppCompatActivity {
 
     public void testgame()
     {
-        
+
     }
 }
