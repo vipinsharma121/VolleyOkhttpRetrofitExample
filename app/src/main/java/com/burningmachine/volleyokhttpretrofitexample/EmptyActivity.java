@@ -20,7 +20,7 @@ public class EmptyActivity extends AppCompatActivity {
 
     public void showClass()
     {
-
+    int method=101010101;
     }
 
     public void movie()
