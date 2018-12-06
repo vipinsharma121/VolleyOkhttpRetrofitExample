@@ -21,7 +21,8 @@
         <activity android:name=".Okhttp3Activity" />
         <activity android:name=".GitActivity" />
         <activity android:name=".EmptyActivity" />
-        <activity android:name=".VipinActivity"></activity>
+        <activity android:name=".VipinActivity" />
+        <activity android:name=".VishalActivity"></activity>
     </application>
 
 </manifest>
