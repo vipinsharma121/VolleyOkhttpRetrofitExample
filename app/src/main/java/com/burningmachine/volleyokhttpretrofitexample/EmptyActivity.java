@@ -10,7 +10,12 @@ public class EmptyActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_empty2);
         int z=1212;
-        int y=10;
-        int x=10;
+         int jj=20000;
+         int j=20000;
+         int hj=20000;
+         int bhn=20000;
+         int bhjin=20000;
+         int bhjijkn=20000;
+
     }
 }
