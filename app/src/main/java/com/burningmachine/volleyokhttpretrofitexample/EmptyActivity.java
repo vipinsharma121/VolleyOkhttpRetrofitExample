@@ -20,15 +20,16 @@ public class EmptyActivity extends AppCompatActivity {
 
     public void showClass()
     {
-    int method=101010101;
+        int method=101010101;
     }
 
     public void movie()
+
     {
-int unitest=10000110;
+        int unitest=10000110;
     }
     public void vishal()
     {
-int three=1000;
+        int three=1000;
     }
 }
