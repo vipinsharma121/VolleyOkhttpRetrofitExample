@@ -11,5 +11,6 @@ public class EmptyActivity extends AppCompatActivity {
         setContentView(R.layout.activity_empty2);
         int z=1212;
         int y=10;
+        int x=10;
     }
 }
