@@ -16,6 +16,7 @@ public class EmptyActivity extends AppCompatActivity {
          int bhn=20000;
          int bhjin=20000;
          int bhjijkn=20000;
+         int bhjijkm=20000;
 
     }
 }
