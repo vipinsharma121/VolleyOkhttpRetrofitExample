@@ -19,7 +19,7 @@ public class GitActivity extends AppCompatActivity {
 
     public void game()
     {
-        
+
     }
     public void show()
     {
