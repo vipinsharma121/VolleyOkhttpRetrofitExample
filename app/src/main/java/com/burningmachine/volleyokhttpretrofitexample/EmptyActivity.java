@@ -9,7 +9,7 @@ public class EmptyActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_empty2);
-        int z=1212;
+        int z=10;
         int y=10;
         int x=10;
     }
