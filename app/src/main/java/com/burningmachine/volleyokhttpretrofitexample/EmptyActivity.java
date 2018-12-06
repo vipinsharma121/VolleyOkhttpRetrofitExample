@@ -14,7 +14,7 @@ public class EmptyActivity extends AppCompatActivity {
         int x=10;
         int w=10;
         int v=10;
-        int k=10;
+        int u=10;
         int l=10;
     }
 
@@ -27,8 +27,7 @@ public class EmptyActivity extends AppCompatActivity {
     {
 
     }
-
-    public void vipin()
+    public void vishal()
     {
 
     }
