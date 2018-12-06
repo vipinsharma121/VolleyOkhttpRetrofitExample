@@ -29,6 +29,6 @@ int unitest=10000110;
     }
     public void vishal()
     {
-
+int three=1000;
     }
 }
