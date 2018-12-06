@@ -22,7 +22,7 @@ public class EmptyActivity extends AppCompatActivity {
     {
     int method=101010101;
     //int k=121;
-        int method=101010101;
+        
     }
 
     public void movie()
@@ -30,6 +30,9 @@ public class EmptyActivity extends AppCompatActivity {
     {
         int unitest=10000110;
     }
+
+
+
     public void vishal()
     {
         int three=1000;
