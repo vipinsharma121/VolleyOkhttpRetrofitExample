@@ -27,4 +27,8 @@ public class EmptyActivity extends AppCompatActivity {
     {
 
     }
+    public void vishal()
+    {
+
+    }
 }
