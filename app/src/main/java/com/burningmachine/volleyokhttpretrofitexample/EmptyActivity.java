@@ -14,5 +14,6 @@ public class EmptyActivity extends AppCompatActivity {
         int x=10;
         int w=10;
         int v=10;
+        int u=10;
     }
 }
